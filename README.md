@@ -17,7 +17,7 @@ Each panel contains text content and is designed to expand when clicked, reveali
 
 ![image](https://github.com/Muntajir11/Vanilla-JS-Challenge-2-FlexPanels/assets/91109805/6fa35610-7b26-416d-b926-2297f053063f)
 
-
+## Deployed here: https://muntajir11.github.io/Vanilla-JS-Challenge-2-FlexPanels/
 ## How to Use
 
 1. Clone the repository to your local machine.
